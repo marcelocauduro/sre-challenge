@@ -14,7 +14,10 @@ Essa infraestrutura da plataforma deve ser elástica e escalável horizontalment
 Sua missão é propor uma arquitetura utilizando componentes da AWS que atendam os requisitos acima citados. Seus entregáveis devem ser:
 1. Um diagrama AWS mostrando sua arquitetura.Recomendamos usar: https://cloudcraft.co/ 
 2. Um ou mais templates (IaC - infrastructure as a code) da sua infra-estrutura feito em CloudFormation ou Terraform.
-
+ 
+### Atenção
+* 	Por favor, **não abra um PR com o seu teste**
+*	Por favor, **não faça fork desse repositório***
 
 
 
